@@ -40,6 +40,10 @@ body {
 
 .navbar a:hover {
     /* TODO: Implementar Ripple Effect */
+    color: #ffffff;
+}
+
+a.active {
     border-top: 1px solid #ecf0f1;
     color: #ffffff;
 }

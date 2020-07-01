@@ -38,11 +38,7 @@ h3 {
     grid-template-columns: 1fr 1fr;
 
     width: 100%;
-    padding: 18px;
-}
-
-.grid-auto {
-    grid-template-columns: 20px auto;
+    padding: 8px 16px;
 }
 
 .grid-item-1 {
@@ -53,11 +49,6 @@ h3 {
 .grid-item-2 {
     color: #ffffff;
     text-align: end;
-}
-
-.grid-item-3 {
-    color: #ffffff;
-    text-align: start;
 }
 
 .grid-span-2 {
