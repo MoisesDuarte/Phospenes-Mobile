@@ -25,7 +25,14 @@ h2 {
     grid-template-columns: 1fr 1fr;
 
     width: 100%;
-    padding: 16px;
+    padding: 18px;
+}
+
+.grid-title {
+    grid-column: 1 / span 2;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 8px;
 }
 
 .grid-item-1 {
