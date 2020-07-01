@@ -9,6 +9,7 @@ body {
     color: #ecf0f1;
     font-family: 'Nunito', sans-serif;
     margin: 0;
+    padding-bottom: 60px; /* Solução gambiarra para navbar; procurar se não há outra */
 }
 
 /* Barra de Navegação Inferior */
