@@ -1,0 +1,39 @@
+/* Tipografia */
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-weight: 300;
+    margin-top: 0;
+}
+
+/* Flex Padrão */
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+/* Tabela Atributos & Habilidades */
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    width: 100%;
+    padding: 16px;
+}
+
+.grid-item-1 {
+    color: #bdc3c7;
+    font-weight: 300;
+}
+
+.grid-item-2 {
+    color: #ffffff;
+    text-align: end;
+}
