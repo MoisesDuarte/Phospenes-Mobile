@@ -1,21 +1,23 @@
 /* Tipografia */
-h1, h2, h3 {
-    text-align: center;
-}
-
-h1 {
+.h1-titulo {
     font-weight: 400;
     margin-bottom: 0;
 }
 
-h2 {
+.h2-subtitulo {
     font-weight: 300;
     margin-top: 0;
     margin-bottom: 0;
 }
 
-h3 {
+.h3-legenda {
     font-weight: 200;
     font-size: 80%;
     margin-top: 0;
+}
+
+.h1-titulo, 
+.h2-subtitulo,
+.h3-legenda {
+    text-align: center;
 }
