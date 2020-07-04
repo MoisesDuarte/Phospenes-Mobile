@@ -32,6 +32,10 @@
     font-weight: 700;
 }
 
+.positivo {
+    color: #27ae60;
+}
+
 .h1-titulo, 
 .h2-subtitulo,
 .h3-legenda,
