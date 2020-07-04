@@ -4,6 +4,12 @@
     margin-bottom: 0;
 }
 
+.titulo {
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+}
+
 .h2-subtitulo {
     font-weight: 300;
     margin-top: 0;
@@ -16,8 +22,19 @@
     margin-top: 0;
 }
 
+.p-descricao {
+    font-size: 80%;
+    text-align: center;
+    padding: 2px 24px;
+}
+
+.negrito {
+    font-weight: 700;
+}
+
 .h1-titulo, 
 .h2-subtitulo,
-.h3-legenda {
+.h3-legenda,
+.p-descricao {
     text-align: center;
 }
