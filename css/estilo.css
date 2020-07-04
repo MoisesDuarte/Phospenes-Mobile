@@ -75,7 +75,7 @@ a.active {
 /* Tabelas Atributos, Habilidades, Equipamento */
 .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: auto 1fr;
 
     width: 100%;
     padding: 8px 16px;
